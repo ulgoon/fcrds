@@ -28,8 +28,7 @@ footer : fastcampus 데이터 분석 집중완성 스쿨(R), Wooyoung Choi, 2018
 
 ---
 ## Web Scraping with Google Sheets
-https://docs.google.com/spreadsheets/d/1kVTl157__2Etw4vp1EmWlEOwVSnC0BzCKZOiHY1jzTI/edit#gid=0
-
+https://docs.google.com/spreadsheets/d/1kVTl157__2Etw4vp1EmWlEOwVSnC0BzCKZOiHY1jzTI/edit?usp=sharing
 
 ---
 ## Crawling, Scraping, Parsing
